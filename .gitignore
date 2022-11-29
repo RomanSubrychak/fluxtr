@@ -1,0 +1,10 @@
+/target/
+/Cargo.lock
+/backend/target/
+/backend/Cargo.lock
+/desktop/src-tauri/Cargo.lock
+/frontend/dist/
+/frontend/target/
+/frontend/Cargo.lock
+/shared/target/
+/shared/Cargo.lock
