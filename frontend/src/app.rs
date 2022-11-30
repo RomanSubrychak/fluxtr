@@ -33,11 +33,6 @@ pub fn app() -> Html {
 
     html! {
         <div>
-            <h2 class={"heading"}>{message}</h2>
-            <audio 
-                src={"https://d1qg6pckcqcdk0.cloudfront.net/adultcontemporary/adamsbryan_chrgold01_heaven.m4a"}
-                controls={true}>
-            </audio>
         </div>
     }
 }
